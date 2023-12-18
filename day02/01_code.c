@@ -22,8 +22,5 @@ int main(int argc, char const *argv[])
     {
         printf("关闭失败");
     }
-    
-    
-    
     return 0;
 }
